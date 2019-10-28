@@ -1325,6 +1325,10 @@ section.lazy-placeholder:after {
   font-size: 96px;
   color: #149dcc;
 }
+.cid-rGaReelfOP .card-title,
+.cid-rGaReelfOP .card-img {
+  text-align: left;
+}
 .cid-rGcO9yGKIg {
   padding-top: 90px;
   padding-bottom: 90px;
