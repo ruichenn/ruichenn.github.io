@@ -1234,6 +1234,9 @@ section.lazy-placeholder:after {
 .cid-rGaF9nsbY0 .card-img:hover .mbr-overlay {
   opacity: .5;
 }
+.cid-rGaF9nsbY0 .mbr-section-subtitle {
+  text-align: left;
+}
 .cid-rGaJsGfpJB {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1299,6 +1302,9 @@ section.lazy-placeholder:after {
 }
 .cid-rGaJsGfpJB .card-img:hover .mbr-overlay {
   opacity: .5;
+}
+.cid-rGaJsGfpJB .mbr-section-subtitle {
+  text-align: left;
 }
 .cid-rGaReelfOP {
   padding-top: 90px;

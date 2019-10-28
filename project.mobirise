@@ -713,6 +713,9 @@
                   "opacity": "1"
                 }
               }
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
             }
           },
           "_name": "features18",
@@ -816,6 +819,9 @@
                   "opacity": "1"
                 }
               }
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
             }
           },
           "_name": "features18",
